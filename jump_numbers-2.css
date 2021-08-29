@@ -1,0 +1,3 @@
+div { width: 50%; margin: 20px auto; text-align: center; }
+        #pageLoad, #clickEvent { font-size: 30px; }
+        #clickEvent:hover { cursor: pointer; }
